@@ -12,7 +12,7 @@ Here if there are new user he can register themself, if we are already member we
 <p>This system will be mainly used by:</p>
 <ul><li>Category</li><li>Contact</li><li>Donate</li><li>About</li><li>Gallery</li></ul>
 <p align="middle">
-  <img src="../master/interfaces/github.png"/>
+  <img src="../master/main/birdsan.jpg"/>
  </p>
  <p></p>
  
