@@ -3,11 +3,11 @@
 This is mini project.
 
 # Technologies Used
-   1)HTML
-   2)CSS
-   3)JAVASCRIPT
-   4)PHP
+   1)HTML<br>
+   2)CSS<br>
+   3)JAVASCRIPT<br>
+   4)PHP<br>
    5)MYSQL (DATABASE)
 
 # About Project
-Here if there are new user he can register themself, if we are already member we can login and we can see the information & <br> if we wish to donate user can also donate.
+Here if there are new user he can register themself, if we are already member we can login and we can see the information & if we wish to donate user can also donate.
