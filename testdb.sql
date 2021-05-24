@@ -69,7 +69,6 @@ INSERT INTO `donor` (`id`, `Pname`, `Amount`, `BAddress`) VALUES
 (12, 'person5', '500', 'person5@gmail.com'),
 (13, 'person6', '600', 'person6@gmail.com'),
 (14, 'person7', '700', 'person7@gmail.com'),
-(19, 'shravya', '300', 'shravya@gmail.com'),
 (20, 'soundarya', '200', 'soun@gmail.com'),
 (21, 'soundarya', '200', 'soun@gmail.com'),
 (22, 'batman', '100000', 'batman@gmail.com'),
@@ -146,9 +145,6 @@ INSERT INTO `users` (`id`, `username`, `password`) VALUES
 (2, 'Admin', 'Admin'),
 (3, 'test', 'test'),
 (9, 'aaaaaaaa', 'aaaaaa'),
-(10, 'shravya', 'shravya'),
-(11, 'manoj', 'manoj'),
-(12, 'ramya', 'ramya');
 
 --
 -- Indexes for dumped tables
